@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "index.html"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "robots.txt"
-  },
-  {
     "revision": "eaab960180cf95b403bc63ad7c004b8b",
     "url": "sw.js"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "robots.txt"
   }
 ];
