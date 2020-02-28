@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/assinatura-email-f360/index.html"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/assinatura-email-f360/robots.txt"
-  },
-  {
     "revision": "eaab960180cf95b403bc63ad7c004b8b",
     "url": "/assinatura-email-f360/sw.js"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/assinatura-email-f360/robots.txt"
   }
 ];
