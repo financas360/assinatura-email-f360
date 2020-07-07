@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b4ec2dfc06918c66594f7341b44b5a71.js"
+  "precache-manifest.1b9c87746ca1e97567cd6454ca995e0d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "signature"});
